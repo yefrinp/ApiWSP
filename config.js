@@ -5,7 +5,7 @@ var config = {
 	    host: "108.167.183.88",
 	    user: "ceylinks_UserApp",
 	    password: "PasswordApp",
-	    database: "ceylinks_wabot509",
+	    database: "ceylinks_WaBotOK2025",
 	    charset : "utf8mb4",
 	    debug: false,
 	    waitForConnections: true,
